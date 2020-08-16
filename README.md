@@ -6,6 +6,10 @@
 
 ## Get help
 ```
+>> help <function name>
+```
+
+```
 >> help clc
 'clc' is a built-in function from the file libinterp/corefcn/sysdep.cc
 
