@@ -2,6 +2,8 @@
 
 [GNU Octave](https://www.gnu.org/software/octave/) - A scientific Programming Language
 
+[Download GNU Octave](https://www.gnu.org/software/octave/download.html)
+
 ## Get help
 ```
 >> help clc
